@@ -6,7 +6,7 @@ informatik
 
     <center><h2 style="color: white;">Қайшыбай Данай 10C</h2></center>
 
-    <img src="https://ltdfoto.ru/image/sAAvOC" alt="Описание изображения" style="display: block; margin: 0 auto; max-width: 20%;">
+    <img src="https://i.postimg.cc/MKPdQTc2/dnoir23.jpg" style="display: block; margin: 0 auto; max-width: 20%;">
     
     <div style="background-color: #d4af37; color: white; text-align: center;">
         <h1>Автобиография</h1>
